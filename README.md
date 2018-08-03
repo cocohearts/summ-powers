@@ -1,6 +1,6 @@
-1) will first explain the purposes and potential uses for this project.
-2) will explain how it works.
-3) will explain the stupidity of the creator[s] (will you ever know how many? probably not...) because there is likely already some function in some long-forgotten library that does exactly what this does. Anyway...
+1 will first explain the purposes and potential uses for this project.
+2 will explain how it works.
+3 will explain the stupidity of the creator[s] (will you ever know how many? probably not...) because there is likely already some function in some long-forgotten library that does exactly what this does. Anyway...
 
 1) The program defines a function that when given input nonnegative integer n, then will print a polynomial in improper-fraction form that is the simplified version of a summation of the nth powers of all numbers from 1 to x, in terms of x. It will be given in two forms, and written in two different documents and not actually printed, for the sake of efficiency. One will be in a format fit for automatic transferral into a LaTeX compiler. A free one is available that renders a png at http://quicklatex.com/. The other is for the program's reference, thank you very much.
 
